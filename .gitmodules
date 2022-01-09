@@ -1,0 +1,4 @@
+[submodule "akwick.github.io"]
+	path = akwick.github.io
+	url = https://github.com/akwick/akwick.github.io.git
+	branch = updateacademic
