@@ -34,7 +34,7 @@ publication_types: ["3"]
 publication: accepted at *MSR 2022 Registered Reports Track* as In-Principal Acceptance (IPA)
 publication_short: In *MSR*
 
-Context Cryptographic APIs are often misused in real-world applications. Therefore, many cryptographic API misuse detection tools have been introduced. However, there exists no established reference benchmark for a fair and comprehensive comparison and evaluation of these tools. While there are benchmarks, they often only address a subset of the domain or were only used to evaluate a subset of existing misuse detection tools. Objective To fairly compare cryptographic API misuse detection tools and to drive future development in this domain, we will devise such a benchmark. Openness and transparency in the generation process are key factors to fairly generate and establish the needed benchmark. Method We propose an approach where we derive the benchmark generation methodology from the literature which consists of general best practices in benchmarking and domain-specific benchmark generation. A part of this methodology is transparency and openness of the generation process, which is achieved by pre-registering this work. Based on our methodology we design CamBench, a fair "Cryptographic API Misuse Detection Tool Benchmark Suite". We will implement the first version of CamBench limiting the domain to Java, the JCA, and static analyses. Finally, we will use CamBench to compare current misuse detection tools and compare CamBench to related benchmarks of its domain.
+abstract: Context Cryptographic APIs are often misused in real-world applications. Therefore, many cryptographic API misuse detection tools have been introduced. However, there exists no established reference benchmark for a fair and comprehensive comparison and evaluation of these tools. While there are benchmarks, they often only address a subset of the domain or were only used to evaluate a subset of existing misuse detection tools. Objective To fairly compare cryptographic API misuse detection tools and to drive future development in this domain, we will devise such a benchmark. Openness and transparency in the generation process are key factors to fairly generate and establish the needed benchmark. Method We propose an approach where we derive the benchmark generation methodology from the literature which consists of general best practices in benchmarking and domain-specific benchmark generation. A part of this methodology is transparency and openness of the generation process, which is achieved by pre-registering this work. Based on our methodology we design CamBench, a fair "Cryptographic API Misuse Detection Tool Benchmark Suite". We will implement the first version of CamBench limiting the domain to Java, the JCA, and static analyses. Finally, we will use CamBench to compare current misuse detection tools and compare CamBench to related benchmarks of its domain.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -50,7 +50,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2204.06447.pdf'
-url_code: ''
+url_code: 'https://github.com/CROSSINGTUD/CamBench'
 url_dataset: ''
 url_poster: ''
 url_project: ''
