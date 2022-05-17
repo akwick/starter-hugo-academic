@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    tag: ""
+    tag: "talk"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
@@ -37,5 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 4 
 ---

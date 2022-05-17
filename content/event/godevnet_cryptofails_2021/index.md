@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Crypto Fails and How to Tackle Them in Go @ GoGetCommunity" 
-event: "GoGetCommunity"
-event_url: "https://www.gogetcommunity.com/speakers/anna-katharina-wickert/"
-location: "Online [Conference]"
+title: "Crypto Fails and How to Tackle Them in Go @ GoDevNet"
+event: "GoDevNet: Glorious Go Gals - a collection of wonderful women talking about their work in Go."
+event_url: "https://www.meetup.com/gobridge/events/277830571/"
+location: "Online [Meetup]"
 address:
   street:
   city:
@@ -18,7 +18,7 @@ In this talk, we will introduce and explain six very frequently discussed proble
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-05-31T10:50:00-05:00
+date: 2021-05-21T17:00:00-05:00
 # date_end: 2022-05-16T21:56:12+02:00
 all_day: true
 
@@ -52,7 +52,7 @@ url_slides:
 
 url_code: "https://github.com/akwick/crypto-go"
 url_pdf: "https://github.com/akwick/crypto-go/blob/master/20200521_Crypto-Fails-and-how-to-tackle-them-in-go.pdf"
-url_video:
+url_video: "https://www.youtube.com/watch?v=IsjZk5ruqzY"
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
