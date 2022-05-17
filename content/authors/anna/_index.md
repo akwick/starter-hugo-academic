@@ -79,7 +79,7 @@ highlight_name: true
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am a doctoral research in the Software Technology Group supervised by Prof. Mezini. 
+I am a doctoral researcher in the Software Technology Group supervised by Prof. Mezini. 
 Currently, I focus on security problems caused by API-misuses, e.g., for cryptographic APIs.
 A well-known problem of cryptography in software is that cryptographic APIs are used in an insecure way. 
 An example is that developers use ECB as a block mode for encryption which is known to be insecure. 
