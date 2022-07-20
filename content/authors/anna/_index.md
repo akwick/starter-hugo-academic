@@ -20,9 +20,9 @@ bio: My research interests are focused on static code analysis, API-misuses, and
 interests:
  - API-misuses 
  - Code analyses
- - API-misuses
+ - Software security
  - Go & [it's communities](https://twitter.com/golangFrankfurt)
- - healthy food & green tea
+ - Healthy food & green tea
  - Yoga and bouldering
 
 # Education to show in About widget
@@ -34,6 +34,9 @@ education:
   - course: MSc IT-Security
     institution: Technische Universität Darmstadt
     year: 2014 - 2017
+  - course: Exchange student
+    instituton: University of Oslo
+    year: 2016
   - course: BSc  
     institution: Technische Hochschule Bingen 
     year: 2011 - 2014
