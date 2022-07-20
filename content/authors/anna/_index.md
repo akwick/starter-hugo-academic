@@ -35,7 +35,7 @@ education:
     institution: Technische Universität Darmstadt
     year: 2014 - 2017
   - course: Exchange student
-    instituton: University of Oslo
+    institution: University of Oslo
     year: 2016
   - course: BSc  
     institution: Technische Hochschule Bingen 
