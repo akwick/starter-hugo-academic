@@ -43,7 +43,7 @@ all_day: true
 publishDate: 2022-05-16T21:56:12+02:00
 
 authors: [anna]
-tags: [security, golang, GopherConEU, workshop, SQLInjection]
+tags: [security, golang, GopherConEU, workshop, SQLInjection, misc]
 
 # Is this a featured event? (true/false)
 featured: true 

@@ -1,33 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "What makes wonderful workshops @ GoTimeFM" 
-event: "GoTimeFM [Podcast]"
-event_url: "https://changelog.com/gotime/178"
-location: "Online [Podcast]"
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary:
-abstract: "Perspectives from both the workshop leaders perspective, as well as the workshop participants. What are some top tips, things to watch out for, and ways to innovate and keep your participants engaged, especially in the remote world we are now living in."
+title: "Talk: Go Flow Safe: Ensure Data Flow of your App with Taint Analyses@ GopherCon Europe"
+event: "GopherCon Europe 2022"
+event_url: "https://gophercon.eu"
+location: "Berlin"
+#address:
+  #street:
+  #city:
+  #region:
+  #postcode:
+  #country:
+#summary:
+abstract: "Security vulnerabilities like SQL Injections may harm your application and static analyses like a taint analysis can help you to prevent these. In this talk, I will introduce the basic concepts of a taint analysis and how to configure and run the taint analysis Go Flow Leeve for Go."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-05-06T10:50:00-05:00
-# date_end: 2022-05-16T21:56:12+02:00
+date: 2022-07-31T14:25:00+02:00
+date_end: 2022-07-31T14:55:00+02:00
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-05-16T21:56:12+02:00
+publishDate: 2022-07-10T21:56:12+02:00
 
 authors: [anna]
-tags: [golang, podcast, workshops, misc]
+tags: [security, golang, GopherConEU, SQLInjection, sensitive data, static analysis, taint analysis, talk]
 
 # Is this a featured event? (true/false)
-featured: true 
+featured: false 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -35,7 +35,7 @@ featured: true
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: false 
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -50,7 +50,7 @@ url_slides:
 
 url_code: 
 url_pdf: 
-url_video: "https://www.youtube.com/watch?v=9oZDqIyIhus&list=PLCzseuA9sYrf0OJWceitz-LFofzWdGY92&index=122"
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

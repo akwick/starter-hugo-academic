@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: 'Recent & Upcoming Workshops'
+title: 'Recent & Upcoming Misc'
 subtitle:
 
 content:
@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    tag: "workshop"
+    tag: "misc"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
@@ -37,5 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4 
+  view: 1 
 ---
