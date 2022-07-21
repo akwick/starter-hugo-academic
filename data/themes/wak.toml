@@ -1,0 +1,16 @@
+# Theme metadata
+name = "WAK"
+
+[light]
+  # Primary
+  primary = "#22324A"
+
+  # Menu
+  menu_primary = "#22324A"
+  menu_text = "#88B3AD"
+  menu_text_active = "#BE9AAB
+  menu_title = "#88B3AD"
+
+  # Home sections
+  home_section_odd = "#fff"
+  home_section_even = "#F6F8F6"
