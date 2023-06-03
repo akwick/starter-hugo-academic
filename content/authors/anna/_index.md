@@ -23,7 +23,7 @@ interests:
  - Software security
  - Go & [it's communities](https://twitter.com/golangFrankfurt)
  - Healthy food & green tea
- - Yoga and bouldering
+ - Yoga (incl. [teaching](https://188.webclimber.de/de/courseBooking/course/boulder-yoga-am-samstag)) & bouldering
 
 # Education to show in About widget
 education:
